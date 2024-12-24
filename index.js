@@ -1,0 +1,1 @@
+alert('JavaScript lié avec succés')
